@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Freskoko/InteriorDesignSite.git/static/css/main.754f027c.css",
+    "main.js": "/Freskoko/InteriorDesignSite.git/static/js/main.bcd19962.js",
+    "static/js/787.73ee23d2.chunk.js": "/Freskoko/InteriorDesignSite.git/static/js/787.73ee23d2.chunk.js",
+    "static/media/bed3.png": "/Freskoko/InteriorDesignSite.git/static/media/bed3.3b34641928f4e699505a.png",
+    "static/media/bed2.png": "/Freskoko/InteriorDesignSite.git/static/media/bed2.8350191afd24e0df706b.png",
+    "static/media/sofa3.png": "/Freskoko/InteriorDesignSite.git/static/media/sofa3.7236e8934c62da6a1ede.png",
+    "static/media/sofa1.png": "/Freskoko/InteriorDesignSite.git/static/media/sofa1.4a6df7879abe27887c71.png",
+    "static/media/chair1.png": "/Freskoko/InteriorDesignSite.git/static/media/chair1.21be51a4106917ea73f5.png",
+    "static/media/chair3.png": "/Freskoko/InteriorDesignSite.git/static/media/chair3.aad5e58d2d3adc0c095e.png",
+    "static/media/bed1.png": "/Freskoko/InteriorDesignSite.git/static/media/bed1.58a7e51cfee5a0afe7b0.png",
+    "static/media/sofa2.png": "/Freskoko/InteriorDesignSite.git/static/media/sofa2.a8e0abed34d6390f73b0.png",
+    "static/media/chair2.png": "/Freskoko/InteriorDesignSite.git/static/media/chair2.f2de6159576018661452.png",
+    "static/media/interiorlogo.webp": "/Freskoko/InteriorDesignSite.git/static/media/interiorlogo.8cae613f05ba1eb856fd.webp",
+    "static/media/logo.svg": "/Freskoko/InteriorDesignSite.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Freskoko/InteriorDesignSite.git/index.html",
+    "main.754f027c.css.map": "/Freskoko/InteriorDesignSite.git/static/css/main.754f027c.css.map",
+    "main.bcd19962.js.map": "/Freskoko/InteriorDesignSite.git/static/js/main.bcd19962.js.map",
+    "787.73ee23d2.chunk.js.map": "/Freskoko/InteriorDesignSite.git/static/js/787.73ee23d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.754f027c.css",
+    "static/js/main.bcd19962.js"
+  ]
+}
